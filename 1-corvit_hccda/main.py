@@ -1,6 +1,4 @@
-def main():
-    print("Hello from 1-corvit-hccda!")
+import streamlit as st
 
-
-if __name__ == "__main__":
-    main()
+st.title("Welcome to corvit ")
+st.write("This is a simple Streamlit app that demonstrates how to create a web application using Python. You can add more features and functionality as needed.")
